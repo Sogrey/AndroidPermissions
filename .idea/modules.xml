@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidPermissions.iml" filepath="$PROJECT_DIR$/AndroidPermissions.iml" />
+      <module fileurl="file://F:\workspace\AS\sogrey\AndroidPermissions\AndroidPermissions.iml" filepath="F:\workspace\AS\sogrey\AndroidPermissions\AndroidPermissions.iml" />
       <module fileurl="file://$PROJECT_DIR$/RxPermissionsApp/RxPermissionsApp.iml" filepath="$PROJECT_DIR$/RxPermissionsApp/RxPermissionsApp.iml" />
+      <module fileurl="file://F:\workspace\AS\sogrey\AndroidPermissions\RxPermissionsApp\RxPermissionsApp.iml" filepath="F:\workspace\AS\sogrey\AndroidPermissions\RxPermissionsApp\RxPermissionsApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\workspace\AS\sogrey\AndroidPermissions\app\app.iml" filepath="F:\workspace\AS\sogrey\AndroidPermissions\app\app.iml" />
     </modules>
   </component>
 </project>
